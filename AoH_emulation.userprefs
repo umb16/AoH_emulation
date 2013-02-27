@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PushString.cs" Line="50" Column="59" />
+      <File FileName="Assets/Scripts/Localisation.cs" Line="35" Column="9" />
+      <File FileName="Assets/Scripts/Serialize.cs" Line="6" Column="39" />
+      <File FileName="Assets/Scripts/Client.cs" Line="242" Column="3" />
+      <File FileName="Assets/Scripts/Weapons.cs" Line="88" Column="38" />
+      <File FileName="Assets/Scripts/Debug.cs" Line="26" Column="2" />
+      <File FileName="Assets/Scripts/GUI_FPS.cs" Line="17" Column="46" />
+      <File FileName="Assets/Scripts/BattleScene.cs" Line="85" Column="1" />
+      <File FileName="Assets/Scripts/GUI_log.cs" Line="19" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BattleScene.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>c_friendmenu.sortCopyFriendsWithApp</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
