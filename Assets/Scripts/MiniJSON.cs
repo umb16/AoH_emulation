@@ -24,6 +24,7 @@ public class MiniJSON
 	private const int TOKEN_CURLY_CLOSE = 2;
 	private const int TOKEN_SQUARED_OPEN = 3;
 	private const int TOKEN_SQUARED_CLOSE = 4;
+	
 	private const int TOKEN_COLON = 5;
 	private const int TOKEN_COMMA = 6;
 	private const int TOKEN_STRING = 7;

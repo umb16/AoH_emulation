@@ -33,6 +33,7 @@ public class Weapons
 1840,
 2190,
 2600,
+
 3100};
 	public static int[] armorMass = {6,
 12,
